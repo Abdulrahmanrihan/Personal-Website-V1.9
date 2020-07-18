@@ -1,0 +1,123 @@
+.bodymain{
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 1px;
+    padding: 0px;
+    margin:0px;
+}
+.dark{
+  background-color: #00000F;
+  color: #e6e6e6;
+}
+.banner{
+    height: 100%;
+}
+
+#name{
+    padding-top: 15%;
+    font-size: 40px;
+    font-weight: 400;
+    color: black;
+    display: none;
+}
+
+.name{
+    padding-left: 10%;
+}
+.subname{
+    font-size: 19px;
+    font-weight: 200;
+    line-height: 25px;
+    display: none;
+}
+#me{
+    max-height: 350px;
+    max-width: 350px;
+    display: block;
+    border-radius: 360px;
+    border-width: thin;
+    border-color: darkblue;
+    display: none;
+}
+.banner2{
+    padding: 5%;
+    display: flex;
+}
+.cardskills{
+    border: none;
+}
+.classification{
+    font-weight: 300;
+    font-size: 14px;
+    border-radius: 6px;
+    border: 1px solid darkblue;
+    padding: 3px;
+    margin: 3px;
+}
+
+.imgSkills{
+    height: 90px;
+    width: 90px;
+    text-align: center;
+}
+
+.card-img{
+    height: 100%
+}
+
+.body{
+    padding: 5% 20% 0 10%;
+}
+
+.card-title{
+    font-weight: bold;
+    margin-bottom: 0;
+}
+.cardtitle{
+    padding-bottom: 15px;
+}
+.card-text{
+    font-weight: 300;
+}
+
+.subtitle{
+    color: grey;
+}
+.mb-4{
+    display: flex;
+}
+.projects{
+    min-width: 300px;
+}
+
+.titles{
+    font-weight: 300;
+    padding-bottom: 70px;
+}
+
+.icon{
+    height: 40px;
+    width: 40px;
+}
+.contactspacing{
+    width: 20%;
+}
+.contacts{
+    padding-left: 40%;
+    padding-right: 40%;
+    margin-bottom: 5%;
+}
+
+hr{
+    margin-top: 80px;
+    margin-bottom: 80px;
+    border-color: darkblue;
+    width: 120px;
+}
+
+#made{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+#copyright{
+    text-align: center;
+}
