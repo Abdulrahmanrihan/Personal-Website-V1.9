@@ -98,13 +98,15 @@
     height: 40px;
     width: 40px;
 }
-.contactspacing{
-    width: 20%;
-}
+
 .contacts{
-    padding-left: 40%;
-    padding-right: 40%;
-    margin-bottom: 5%;
+    padding-bottom: 25px;
+    width: max-content; 
+    margin: 0 auto;
+}
+
+.contactspacing{
+    padding-left: 20px;
 }
 
 hr{
@@ -118,6 +120,10 @@ hr{
     padding-bottom: 0px;
     margin-bottom: 0px;
 }
-#copyright{
+#copyrights{
+    padding-top: 5px;
+    padding-bottom: 5px;
     text-align: center;
+    color: white;
+    background-color: #343a40  !important;
 }
