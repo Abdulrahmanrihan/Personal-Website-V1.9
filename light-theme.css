@@ -1,0 +1,170 @@
+.body{
+    padding: 5% 15% 0 15%;
+}
+
+.bodymain{
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 1px;
+    padding: 0px;
+    margin:0px;
+}
+
+.banner{
+    height: 100%;
+}
+
+.navbar{
+    background-color: whitesmoke;
+}
+
+.navbar-nav{
+    width: 100% !important;
+}
+
+.nav-link{
+    color: darkblue;
+}
+
+.btn-toggle{
+    border: none;
+    background-color: whitesmoke;
+}
+
+#name{
+    padding-top: 15%;
+    font-size: 40px;
+    font-weight: 400;
+    color: black;
+    display: none;
+}
+
+.name{
+    padding-left: 10%;
+}
+.subname{
+    font-size: 19px;
+    font-weight: 200;
+    line-height: 25px;
+    display: none;
+}
+#me{
+    max-height: 350px;
+    max-width: 350px;
+    display: block;
+    border-radius: 360px;
+    border-width: thin;
+    border-color: darkblue;
+    display: none;
+}
+.banner2{
+    padding: 5%;
+    display: flex;
+}
+
+.cardskills{
+    border: none;
+    border-radius: 5%;
+    margin: 5px;
+}
+.classification{
+    font-weight: 300;
+    font-size: 14px;
+    border-radius: 6px;
+    border: 1px solid darkblue;
+    padding: 3px;
+    margin: 3px;
+}
+
+.skillsBody{
+    padding-left: 0.25rem;
+}
+
+.imgSkills{
+    height: 90px;
+    width: 90px;
+    border-radius: 5%;
+    margin-left: 0.25rem;
+    text-align: center;
+}
+
+.card-img{
+    height: 100%
+}
+.card-title{
+    font-weight: bold;
+    margin-bottom: 0;
+}
+.cardtitle{
+    padding-bottom: 15px;
+}
+.card-text{
+    font-weight: 300;
+}
+
+.subtitle{
+    color: grey;
+}
+.mb-4{
+    display: flex;
+}
+.projects{
+    min-width: 300px;
+}
+
+.titles{
+    font-weight: 300;
+    padding-bottom: 70px;
+}
+
+.icon{
+    height: 25px;
+    width: 25px;
+    color: #e6e6e6;
+}
+.btn{
+    background-color: darkblue;
+    border: none;
+}
+
+.contacts{
+    padding-bottom: 15px;
+    padding-top: 10px;
+    width: fit-content;
+    margin: 0 auto;
+    
+}
+
+.contactspacing{
+    padding-left: 10px;
+}
+
+hr{
+    margin-top: 80px;
+    margin-bottom: 80px;
+    border-color: darkblue;
+    width: 120px;
+}
+
+#copyrights{
+    margin: 0 auto;
+    width: 100%;
+    padding-top: 5px;
+    color: white;
+    background-color: #565f68  !important;
+}
+
+#reachout{
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 0; 
+    font-size: 12px; 
+    max-width: fit-content;
+}
+
+#made{
+    margin: 0 auto;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    max-width: fit-content;
+}
+

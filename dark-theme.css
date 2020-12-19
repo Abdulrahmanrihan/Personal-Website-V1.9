@@ -1,0 +1,175 @@
+.bodymain{
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 1px;
+    padding: 0px;
+    margin:0px;
+    background-color: #00000F;
+    color: #e6e6e6;
+}
+
+.banner{
+    height: 100%;
+}
+
+.navbar{
+    background-color: #191b1d;
+}
+.navbar-nav{
+    width: 100% !important;
+}
+.nav-link{
+    color: white;
+}
+
+.btn-toggle{
+    border: none;
+    background-color:#191b1d;
+    color: white;
+}
+
+#name{
+    padding-top: 15%;
+    font-size: 40px;
+    font-weight: 400;
+    color: white;
+    display: none;
+}
+
+.name{
+    padding-left: 10%;
+}
+.subname{
+    font-size: 19px;
+    font-weight: 200;
+    line-height: 25px;
+    display: none;
+}
+#me{
+    max-height: 350px;
+    max-width: 350px;
+    display: block;
+    border-radius: 360px;
+    border-width: thin;
+    border-color: darkblue;
+    display: none;
+}
+.banner2{
+    padding: 5%;
+    display: flex;
+}
+
+.cardskills{
+    border: none;
+    margin: 5px;
+    padding: 10px;
+}
+.skillsBody{
+    padding-left:0.25rem;
+}
+.classification{
+    font-weight: 300;
+    font-size: 14px;
+    border-radius: 6px;
+    border: 1px solid darkblue;
+    padding: 3px;
+    margin: 3px;
+}
+
+.imgSkills{
+    height: 90px;
+    width: 90px;
+    border-radius: 5%;
+    margin-left: 0.25rem;
+    padding: 5px;
+    background-color: #00001f;
+}
+.card{
+    background-color: black;
+}
+
+.card-img{
+    height: 100%
+}
+
+.body{
+    padding: 5% 15% 0 15%;
+}
+
+.card-title{
+    font-weight: bold;
+    margin-bottom: 0;
+}
+.cardtitle{
+    padding-bottom: 15px;
+}
+.card-text{
+    font-weight: 300;
+}
+
+.subtitle{
+    color: grey;
+}
+.mb-4{
+    display: flex;
+}
+.projects{
+    min-width: 300px;
+}
+
+.titles{
+    font-weight: 300;
+    padding-bottom: 70px;
+}
+
+.btn{
+    background-color:  #00001f;
+    border: none;
+}
+
+.icon{
+    height: 25px;
+    width: 25px;
+    color: #e6e6e6;
+}
+
+.contacts{
+    padding-bottom: 15px;
+    padding-top: 10px;
+    width: fit-content;
+    margin-left: 60%;
+    margin-right: 15%;
+}
+
+.contactspacing{
+    padding-left: 10px;
+}
+
+hr{
+    margin-top: 80px;
+    margin-bottom: 80px;
+    border-color: white;
+    width: 120px;
+}
+
+#copyrights{
+    margin: 0 auto;
+    width: 100%;
+    padding-top: 5px;
+    color: white;
+    background-color: #191b1d  !important;
+}
+
+#reachout{
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 0; 
+    font-size: 12px; 
+    max-width: fit-content;
+}
+
+#made{
+    margin: 0 auto;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    max-width: fit-content;
+}
