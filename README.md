@@ -1,3 +1,3 @@
-# Abdulrahmanrihan.github.io
+# Personal website v1.9
 My old Personal Website
-Used Bootstrap, HTML, CSS and Javascript.
+Made using Bootstrap, HTML, CSS and Javascript.
